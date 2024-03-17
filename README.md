@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @Cxsulah-code
 - 👀 I’m interested in ... building and developing advanced technology.
-- 🌱 I’m currently learning ... python, java, javascript, django
+- learning more languages and use them in doing great works.
+- I love Jesus, family and friends.
+- 🌱 I’m currently learning ... python, java, javascript, django, typescript, html, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... calisxtalis@gmail.com
 - 😄 Pronouns: ...
