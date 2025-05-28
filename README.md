@@ -2,10 +2,11 @@
 - 👀 I’m interested in ... building and developing advanced technology.
 - learning more languages and use them in doing great works.
 - I love Jesus, family and friends.
+- I love Linah papet💖💯  
 - 🌱 I’m currently learning ... python, java, javascript, django, typescript, html, css
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... calisxtalis@gmail.com
-- 😄 Pronouns: ...
+- 😄 Pronouns: He, Engineer
 - ⚡ Fun fact: ...
 
 <!---
