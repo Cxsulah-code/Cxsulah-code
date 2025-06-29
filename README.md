@@ -11,6 +11,8 @@
 - ⚡ Fun fact: science is not everything but GOD is everything😇💯
 - Science ends but GOD does not end🤓💯
 - Learning is enjoyment...
+- 1 Timothy 6:10
+ For the love of money is a root of all kinds of evil. Some people, eager for money, have wandered from the faith and pierced themselves with many griefs.
 
 <!---
 Cxsulah-code/Cxsulah-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
